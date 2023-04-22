@@ -68,3 +68,96 @@ http://fuzzyunicorns.net:80/live/Dave/Dave/434519.ts
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: REPRETEL 11
 http://fuzzyunicorns.net:80/live/Dave/Dave/434520.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TICAVISION CANAL 54
+http://fuzzyunicorns.net:80/live/Dave/Dave/434528.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TV SUR CANAL 9
+http://fuzzyunicorns.net:80/live/Dave/Dave/434534.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: LOS SANTOS TV
+http://fuzzyunicorns.net:80/live/Dave/Dave/434542.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: CANAL 88 STEREO
+http://fuzzyunicorns.net:80/live/Dave/Dave/434546.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: FUTV
+http://fuzzyunicorns.net:80/live/Dave/Dave/434547.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: FUTV GRITALO
+http://fuzzyunicorns.net:80/live/Dave/Dave/434548.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: CANAL 38
+http://fuzzyunicorns.net:80/live/Dave/Dave/434552.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: VIDEO TOUR TV
+http://fuzzyunicorns.net:80/live/Dave/Dave/434558.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TIGO SPORT COSTA RICA
+http://fuzzyunicorns.net:80/live/Dave/Dave/434575.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TIGO SPORTS
+http://fuzzyunicorns.net:80/live/Dave/Dave/434577.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TELESISTEMA CANAL 9
+http://fuzzyunicorns.net:80/live/Dave/Dave/518614.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TELETICA 7
+http://fuzzyunicorns.net:80/live/Dave/Dave/434516.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: REPRETEL 4
+http://fuzzyunicorns.net:80/live/Dave/Dave/434519.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: REPRETEL 11
+http://fuzzyunicorns.net:80/live/Dave/Dave/434520.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Costa%20Rica.png" group-title="Nacional", CR: TICAVISION CANAL 54
+http://fuzzyunicorns.net:80/live/Dave/Dave/434528.ts
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qO-173xFW5k/W_MLH-pIq6I/AAAAAAAAHHo/7mcWHUY0EE85kk8YAAY2ZIYO6SDslOJSQCLcBGAs/s1600/Canal%2BExtra%2B42.png" group-title="Nacional", CR: Canal 42
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49DxHSk1iNc5pdd8JXK6asiqzULcN3lubf9-efsjUiOX)/dm/3/x83sd3v/s/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Nacional", Soy Plancha TV * | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Nacional", Teletica Canal 7 | CR
+https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/BZAFW4DBWRBGJPAYNKXOVSSDHM.png" group-title="Nacional", CR | FUTV V*
+http://premiumultra.xyz:8080/alen2022/alen2022/121880
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/c279a62ae8f80b01d5e76d2e5d7e22c8.png" group-title="Nacional", CR | REFRETEL 11
+http://premiumultra.xyz:8080/alen2022/alen2022/121881
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/928568f1b0221783f01cc5dc2ed8de48.png" group-title="Nacional", CR | TD+2
+http://premiumultra.xyz:8080/alen2022/alen2022/121883
+
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/928568f1b0221783f01cc5dc2ed8de48.png" group-title="Nacional", CR | TD+ 1
+http://premiumultra.xyz:8080/alen2022/alen2022/121884
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Nacional", CR | TELETICA 7
+http://premiumultra.xyz:8080/alen2022/alen2022/121885
+
+#EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/kolbi-hogar-tv-anexiontv.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-228191bc-1283-434e-93a5-ef90c46c46c2-mKKclW7" group-title="Nacional", CR | ANEXION TV
+http://premiumultra.xyz:8080/alen2022/alen2022/121891
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Nacional", CR | TELETICA 7 HD
+http://premiumultra.xyz:8080/alen2022/alen2022/121912
+
+#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Nacional", CR | EL CANAL DE LA MUSICA*
+http://premiumultra.xyz:8080/alen2022/alen2022/121917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Nacional", CR | TVSUR*
+http://premiumultra.xyz:8080/alen2022/alen2022/121919
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png" group-title="Nacional", CR | Refretel CANAL 6*
+http://premiumultra.xyz:8080/alen2022/alen2022/121922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Nacional", CR | VOICE OVER RADIO TV
+http://premiumultra.xyz:8080/alen2022/alen2022/121927
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Nacional", CR | TICA TV PLUS HD
+http://premiumultra.xyz:8080/alen2022/alen2022/121929
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="Nacional", CR | TIGO SPORTS HD.
+http://premiumultra.xyz:8080/alen2022/alen2022/121935
