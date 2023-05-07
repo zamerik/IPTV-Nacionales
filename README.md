@@ -168,7 +168,7 @@ http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/170943
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/7212591e77e923e933a5d834ad485845.png" group-title="Costa Rica", 56 | 88 Stereo SD
 http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/170953
 
-#EXTINF:-1 tvg-logo="http://www.tvsur.co.cr/wp-content/uploads/2014/12/prenza-tv-sur.jpg" group-title="Costa Rica OP2", 57 | Tv Sur
+#EXTINF:-1 tvg-logo="http://www.tvsur.co.cr/wp-content/uploads/2014/12/prenza-tv-sur.jpg" group-title="Costa Rica", 57 | Tv Sur
 http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/174802
 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/52120674021d746bd18572b8a471e92f.png" group-title="Costa Rica", 58 |  Telesistemas
