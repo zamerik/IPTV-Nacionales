@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="Costa Rica", 1 | Canal 1 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="Costa Rica",1 | Canal 1 
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/dd383084a4c255e8445fb60f9001b9e6.png" group-title="Costa Rica", 2 | TV Plus 
